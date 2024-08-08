@@ -1,11 +1,16 @@
 const pageConfig = {
   // Title for your status page
-  title: "lyc8503's Status Page",
+  title: "Cacode's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'https://blog.lyc8503.net/', label: 'Blog' },
-    { link: 'mailto:me@lyc8503.net', label: 'Email Me', highlight: true },
+    { link: 'https://blog.cacode.us.kg/', label: 'Blog' },
+    { link: 'https://bypass.cacode.us.kg/', label: 'Bing Bypass Server' },
+    { link: 'https://todolist.cacode.us.kg/', label: 'Todo List', },
+    { link: 'https://mindmap.cacode.us.kg/', label: 'Mindmap', },
+    { link: 'https://it-tools.cacode.us.kg/', label: 'IT-tools', },
+    { link: 'https://image.cacode.us.kg/', label: 'Telegraph Image', },
+    { link: 'https://chat.cacode.us.kg/', label: 'NextChat', },
+    { link: 'https://bingai.cacode.us.kg/', label: 'BingAI', },
   ],
 }
 
